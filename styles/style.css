@@ -1,0 +1,61 @@
+.navBar{background-color: red;
+    height: 50px;
+    margin: 5px; ;}
+
+    #jaune{background-color: yellow; 
+    height: 150px;
+margin: 5px;}
+
+.principaldown{display: flex;}
+
+.background-left{background-color: blue;
+height: 500px;
+width:50%;
+margin: 5px;}
+
+.background-right{background-color: white;
+height: 500px;
+width:50%;
+margin: 5px;}
+
+.upgreendiv{background-color: green;
+height: 250px;
+width: 100%;
+}
+
+.downgreendiv{background-color: rgb(253, 253, 252);
+height: 240px;
+width: 100%;
+margin: 5px;
+display: flex;
+/* justify-content: space-between; */
+}
+
+.carreorange{background-color: rgb(224, 107, 10) ;
+height: 240px;
+width: 250px;
+margin-right: 5px;}
+/* width: 100px; */
+
+.rightcarreorange{background-color: rgb(253, 252, 252);
+height: 240px;
+width: 100%; }
+
+.divemeraude{background-color: blue;
+height: 50%;
+width: 100%;
+margin-bottom: 5px;}
+
+.downemeraude{background-color: rgb(251, 253, 253);
+height: 50%;
+width: 100%;
+display: flex;}
+
+.whitediv{background-color: beige;
+height: 125px;
+width: 50%;
+margin-right: 5px ;}
+
+.blackdiv{background-color: black;
+height: 125px;
+width: 50%;}
